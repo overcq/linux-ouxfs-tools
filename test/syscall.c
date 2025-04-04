@@ -2,8 +2,8 @@
 *   ___   public
 *  ¦OUX¦  C
 *  ¦/C+¦  commandline utility
-*   ---   make OUX filesystem
-*         main
+*   ---   OUX filesystem
+*         test
 * ©overcq                on ‟Gentoo Linux 23.0” “x86_64”              2024‒7‒7 H
 *******************************************************************************/
 #include <sys/file.h>

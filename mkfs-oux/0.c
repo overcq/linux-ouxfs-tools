@@ -1,9 +1,9 @@
 /*******************************************************************************
-*   ___   [obszar]
-*  ¦OUX¦  [system programowania]
-*  ¦/C+¦  [rodzaj składnika]
-*   ---   [nazwa składnika]
-*         [tytuł elementu]
+*   ___   public
+*  ¦OUX¦  C
+*  ¦/C+¦  commandline utility
+*   ---   OUX filesystem
+*         make
 * ©overcq                on ‟Gentoo Linux 23.0” “x86_64”              2024‒8‒7 f
 *******************************************************************************/
 #include <fcntl.h>
